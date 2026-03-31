@@ -1,0 +1,8 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+code
+*.o
+test_input.txt
+expected_output.txt
+actual_output.txt
